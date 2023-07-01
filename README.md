@@ -12,10 +12,10 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
   <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300px" align="right">
   
-- 👀 I’m interested in ... **Open source , DevOps**
+- 👀 I’m interested in ... **web designer**
 
 
-- 🌱 I’m currently learning ... **Terraform**
+- 🌱 I’m currently learning ... **React. js**
 
 
 - 🔭 I’m currently working on **Open-source**
@@ -24,7 +24,7 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 - 💞️ I’m looking to collaborate on ... **Various Opensource projects**
 
 
-- 📫 How to reach me ... **lingeshkrish08@gmail.com**
+- 📫 How to reach me ... **kiruthiga.kr.28@gmail.com**
 
 
 
@@ -36,8 +36,6 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 ### Language :
     
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -62,7 +60,6 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 <h2 align="left":inline-block>Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/lingeshtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lingeshwaran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lingeshwaran-k-6a189620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingeshwaran" height="30" width="40" /></a>
 <a href="https://leetcode.com/lingeshwaran470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lingeshwaran470" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lingeshkrish08/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lingeshwaran" height="30" width="40" /></a>
@@ -73,12 +70,12 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshwaran05&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KIRUTHIGAK28&theme=dark&hide_border=true"/>
   </a>
 </p>
 <p align="center">
- <a href="https://github.com/lingeshwaran05/github-readme-stats"><img alt="lingeshwaran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lingeshwaran05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/lingeshwaran05/github-readme-stats"><img alt="lingeshwaran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingeshwaran05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/KIRUTHIGAK28/github-readme-stats"><img alt="Keerthi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KIRUTHIGAK28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/KIRUTHIGAK28/github-readme-stats"><img alt="Keerthi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRUTHIGAK28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
  </p>
 </div>
@@ -87,9 +84,9 @@ I'm a Devops and Open-source Enthusiast.Apart from coding I always enjoy meeting
 
 ### Profile Trophies:
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=lingeshwaran05&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/lingeshwaran05)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=KIRUTHIGAK28&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KIRUTHIGAK28)
 
 <!---
-lingeshwaran05/lingeshwaran05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KIRUTHIGAK28/KIRUTHIGAK28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 --->
