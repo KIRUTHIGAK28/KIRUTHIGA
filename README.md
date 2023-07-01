@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello coders!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lingeshwaran05&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran05" /> • 
+  <img src="https://komarev.com/ghpvc/?username=kiruthigak28&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran05" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/lingeshwaran05?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/lingeshwaran05?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)" alt="opensource">
